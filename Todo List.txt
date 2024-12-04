@@ -1,0 +1,24 @@
+TODO: LIST
+[V] Change descriptions (also on nexus)
+[ ] Change texts
+[ ] Provide localizations
+[ ] Test
+[ ] New Effects (EffectPrototype)
+    Need to add new effect with colorful world but without head shaking
+[ ] Description for Effects
+    Also with localization
+[ ] ConsumablePrototypes - setup effects
+    Remove not needed, setup needed. 
+    1. Increase hungry 
+    2. New Effect - colorful world
+    3. Long stamina recovery (2x as nonstop, maybe as nonstop unlimited)
+[ ] Spawn only for Stormtrooper - Mercenaries, Freedom, Noon, Neutral, Bandit
+[ ] Spawn in stashes
+[ ] Spawn for traders
+[ ] Change nexus mod head image
+[ ] Change nexus small main image
+[ ] Change physical item texture
+[ ] Test
+[ ] Check animation of drinking!!!
+[ ] Research how to texts without full LocalizationDB.ubulk
+[ ] One more revo? 

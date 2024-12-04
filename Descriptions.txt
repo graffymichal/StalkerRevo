@@ -1,0 +1,71 @@
+Name: Deta S.T.A.L.K.E.R. REVO
+------
+File Description: StalkeRevo files
+------
+Localizations:
+"sid_items_Energetic_Alco_description": "Алкогольний енергетичний напій, багато хто не знає що це, хоч і куштував, але свою повагу у вільних Сталкерів він заслужив.",
+UA
+"sid_items_Energetic_Alco_name": "«REVO» Alco-Energy",
+"sid_items_Energetic_Alco_description": "Напій поєднує сильні сторони енергетика та алкогольного, широко використовується найманцями у своїх місіях в зону. Допомагає при тривалій роботі в тутешній атмосфері. Покращує смак, знімає радіацію, додає кольорів до життя.",
+ENG
+"sid_items_Energetic_Alco_name": "«REVO» Alco-Energy",
+"sid_items_Energetic_Alco_description": "The drink combines the strengths of energy and alcohol, is widely used by mercenaries in their missions to the zone. Helps with long-term work in the local atmosphere. Improves taste, removes radiation, adds colors to life.",
+  
+  
+  Напій поєднує сильні сторони енергетика та алкогольного, широко використовується найманцями у своїх місіях в зону
+------
+Short description: 
+Add ukrainian lore-friendly alco-energy drink "RevO" into game.
+Додає в гру дружній до канону український алко-енергетичний напій "RevO".
+------
+Long description (BBCode):
+
+Мій перший мод на гру, додав українське "RevO" :) з невеличким ефектом сп'яніння. 
+
+[font=Times New Roman][size=4][UA]
+Алкогольно-енергетичний напій відомий тим що широко використовується найманцями у своїх місіях в зону, 
+маючи універсальний вітамінний склад поєднуючись з алкоголем допомагає при тривалій роботі в тутешній атмосфері.
+Позитивно впливає на організм в стресових ситуаціях - додає кольорів до життя, а також збільшує контрастність бачення.
+Покращує смак, знімає радіацію, додає витривалості.
+[/size][/font]
+[font=Times New Roman][size=4][ENG]
+Alco-energy drink is known for being widely used by mercenaries in their missions to the zone,
+having a universal vitamin composition, combined with alcohol, it helps with long-term work in the local atmosphere.
+Positively affects the body in stressful situations - adds colors to life, and also increases the contrast of vision.
+Improves taste, removes radiation, adds endurance.
+[/size][/font]
+
+
+[size=2][code]Installation\Встановлення:
+ - [ENG] Download and unpack to: ...\S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks\~mods
+ - [UA] Скачати і розпакувати в: ...\S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks\~mods
+
+Deleting\Видалення:
+ - [ENG] Remove 7 files name starts with Deta-StalkeRevo-* 
+ - [UA] Видалити 7 файлів назва яких починається з Deta-StalkeRevo-*
+[/code][/size]
+[size=2]In progress:[list]
+[*] Change spawn
+[*] Change effects
+[*] Ingame object texture 
+[*] Maybe one more variant?)))
+[/list][/size][size=2]В розробці:
+[list]
+[*]Корректний спавн
+[*]Зміна ефектів
+[*]Текстури об'єкта в грі.
+[*]Ще один варіант напою?)))
+[/list][/size]
+
+[size=1][quote]For mod devs\Для розробників інших модів:
+[list]
+[*] [ENG] Textures and images are totally new (no replace).
+[*] [UA] Текстури і картинки додані як нові.
+[*] [ENG] Item name: Energetic_Alco
+[*] [UA] Назва об'єкта: Energetic_Alco
+[*] Changed original files\Список змінених файлів:
+[list]
+[*]~\GameLite\GameData\ItemPrototypes\ConsumablePrototypes.cfg
+[*]~\GameLite\GameData\ItemGeneratorPrototypes\DynamicItemGenerator.cfg
+[*]~\_Stalker_2\Localization\LocalizationDB.ubulk
+[/list][/list][/quote][/size]
