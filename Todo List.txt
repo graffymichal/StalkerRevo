@@ -1,8 +1,8 @@
 TODO: LIST
 [V] Change descriptions (also on nexus)
-[ ] Change texts
-[ ] Provide localizations
-[ ] Test
+[V] Change texts
+[V] Provide localizations
+[V] Test
 [ ] New Effects (EffectPrototype)
     Need to add new effect with colorful world but without head shaking
 [ ] Description for Effects

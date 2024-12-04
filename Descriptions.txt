@@ -3,16 +3,12 @@ Name: Deta S.T.A.L.K.E.R. REVO
 File Description: StalkeRevo files
 ------
 Localizations:
-"sid_items_Energetic_Alco_description": "Алкогольний енергетичний напій, багато хто не знає що це, хоч і куштував, але свою повагу у вільних Сталкерів він заслужив.",
 UA
 "sid_items_Energetic_Alco_name": "«REVO» Alco-Energy",
-"sid_items_Energetic_Alco_description": "Напій поєднує сильні сторони енергетика та алкогольного, широко використовується найманцями у своїх місіях в зону. Допомагає при тривалій роботі в тутешній атмосфері. Покращує смак, знімає радіацію, додає кольорів до життя.",
+"sid_items_Energetic_Alco_description": "Напій поєднує сильні сторони енергетика та алкоголю, широко використовується найманцями у своїх місіях в зону. Допомагає при тривалій роботі в тутешній атмосфері. Покращує апетит, знімає радіацію, додає кольорів до життя.",
 ENG
 "sid_items_Energetic_Alco_name": "«REVO» Alco-Energy",
-"sid_items_Energetic_Alco_description": "The drink combines the strengths of energy and alcohol, is widely used by mercenaries in their missions to the zone. Helps with long-term work in the local atmosphere. Improves taste, removes radiation, adds colors to life.",
-  
-  
-  Напій поєднує сильні сторони енергетика та алкогольного, широко використовується найманцями у своїх місіях в зону
+"sid_items_Energetic_Alco_description": "The drink combines the strengths of energy and alcohol, is widely used by mercenaries in their missions to the zone. Helps with long-term work in the local atmosphere. Improves appetite, removes radiation, adds color to life.",
 ------
 Short description: 
 Add ukrainian lore-friendly alco-energy drink "RevO" into game.
@@ -21,18 +17,18 @@ Add ukrainian lore-friendly alco-energy drink "RevO" into game.
 Long description (BBCode):
 
 Мій перший мод на гру, додав українське "RevO" :) з невеличким ефектом сп'яніння. 
-
+UA\ENG Localizations only....yet...
 [font=Times New Roman][size=4][UA]
 Алкогольно-енергетичний напій відомий тим що широко використовується найманцями у своїх місіях в зону, 
 маючи універсальний вітамінний склад поєднуючись з алкоголем допомагає при тривалій роботі в тутешній атмосфері.
 Позитивно впливає на організм в стресових ситуаціях - додає кольорів до життя, а також збільшує контрастність бачення.
-Покращує смак, знімає радіацію, додає витривалості.
+Покращує апетит, знімає радіацію, додає витривалості.
 [/size][/font]
 [font=Times New Roman][size=4][ENG]
 Alco-energy drink is known for being widely used by mercenaries in their missions to the zone,
 having a universal vitamin composition, combined with alcohol, it helps with long-term work in the local atmosphere.
 Positively affects the body in stressful situations - adds colors to life, and also increases the contrast of vision.
-Improves taste, removes radiation, adds endurance.
+Improves appetite, removes radiation, adds endurance.
 [/size][/font]
 
 
