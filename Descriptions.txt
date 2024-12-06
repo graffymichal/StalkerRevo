@@ -37,19 +37,19 @@ Improves appetite, removes radiation, adds endurance.
  - [UA] Скачати і розпакувати в: ...\S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Content\Paks\~mods
 
 Deleting\Видалення:
- - [ENG] Remove 7 files name starts with Deta-StalkeRevo-* 
- - [UA] Видалити 7 файлів назва яких починається з Deta-StalkeRevo-*
+ - [ENG] Load your save, throw out from inventory all Revo Items, also throw out you your stash. Make new save. Remove 7 files name starts with Deta-StalkeRevo-*. Continue on latest save.
+ - [UA] Загрузити збереження. Викинути з інвентарю і стешу всі банки рево. Зробити нове збереження. Видалити 7 файлів назва яких починається з Deta-StalkeRevo-*. Продовжувати грати з останнього збереження.
 [/code][/size]
 [size=2]In progress:[list]
-[*] Change spawn
-[*] Change effects
-[*] Ingame object texture 
+[*] More localizations? (Only UA, and ENG actual)
+[*] Change effects (Add drunkness without shaking)
+[*] Ingame object texture - not possible at this moment
 [*] Maybe one more variant?)))
 [/list][/size][size=2]В розробці:
 [list]
-[*]Корректний спавн
-[*]Зміна ефектів
-[*]Текстури об'єкта в грі.
+[*] Додати переклади? (Наразі лише Українська і Англійська)
+[*]Зміна ефектів (Додати ефект кольорового світу)
+[*]Текстури об'єкта в грі. - Наразі неможливо
 [*]Ще один варіант напою?)))
 [/list][/size]
 
@@ -61,7 +61,8 @@ Deleting\Видалення:
 [*] [UA] Назва об'єкта: Energetic_Alco
 [*] Changed original files\Список змінених файлів:
 [list]
-[*]~\GameLite\GameData\ItemPrototypes\ConsumablePrototypes.cfg
-[*]~\GameLite\GameData\ItemGeneratorPrototypes\DynamicItemGenerator.cfg
+[*]~\GameLite\GameData\EffectPrototypes.cfg
 [*]~\_Stalker_2\Localization\LocalizationDB.ubulk
 [/list][/list][/quote][/size]
+NOTE!!! Mod are compatible with all modes which are not change LocalizationDB or EffectPrototypes.cfg
+ПРИМІТКА!!! Мод повністю сумістний з модами які не змінюють LocalizationDB чи EffectPrototypes.cfg
