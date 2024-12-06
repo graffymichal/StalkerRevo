@@ -22,3 +22,17 @@ TODO: LIST
 [ ] Check animation of drinking!!!
 [ ] Research how to texts without full LocalizationDB.ubulk
 [ ] One more revo? 
+
+
+
+Michal
+ - Prepare for new revo
+ - Texts
+ - Spawn
+ - Use existing effects
+ - Research how to special effect without shaking
+Yehor
+ - Icons for new revo
+ - Update icons for old revo
+ - Prepare textures for meshes
+ - Research how to export\import skeletal
