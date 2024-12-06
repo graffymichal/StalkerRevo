@@ -63,6 +63,6 @@ Deleting\Видалення:
 [list]
 [*]~\GameLite\GameData\EffectPrototypes.cfg
 [*]~\_Stalker_2\Localization\LocalizationDB.ubulk
-[/list][/list][/quote][/size]
-NOTE!!! Mod are compatible with all modes which are not change LocalizationDB or EffectPrototypes.cfg
-ПРИМІТКА!!! Мод повністю сумістний з модами які не змінюють LocalizationDB чи EffectPrototypes.cfg
+[/list][/list]GitHub: [url=https://github.com/graffymichal/StalkerRevo]StalkerRevo[/url][/quote][/size]
+[size=3][color=#ff0000][b]NOTE!!![/b][/color] Mod are compatible with all modes which are not change LocalizationDB or EffectPrototypes.cfg
+[color=#ff0000][b]ПРИМІТКА!!![/b][/color] Мод повністю сумістний з модами які не змінюють LocalizationDB чи EffectPrototypes.cfg[/size]
